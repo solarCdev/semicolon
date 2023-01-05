@@ -1,0 +1,14 @@
+footer {
+  width: 100%;
+  height: 100px;
+  margin-top: 50px;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 -10px 40px #7a66ffc2;
+}
+
+footer > span {
+  margin: 10%;
+  display: block;
+  position: relative;
+  top: 20px;
+}

@@ -1,0 +1,10 @@
+:root {
+  --bright-blue: #279fdd;
+  --mint: #26e0c8;
+  --bg-blue: #202032;
+}
+
+*::selection {
+  color: var(--bg-blue);
+  background-color: var(--mint);
+}

@@ -1,0 +1,6 @@
+button {
+  margin-top: 80px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}

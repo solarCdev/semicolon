@@ -1,0 +1,26 @@
+:root {
+  --bright-blue: #279fdd;
+  --mint: #26e0c8;
+  --bg-blue: #202032;
+}
+
+.tog_li {
+  position: relative;
+  /* background-color: red;
+  border: 1px solid blue; */
+  top: 30px;
+  margin-top: 20px;
+}
+
+.lang {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tog_li > ul {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 20px;
+}
